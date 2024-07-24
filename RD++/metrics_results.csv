@@ -1,0 +1,14 @@
+Class,Model,AUROC_sample,AUROC_pixel,AUPRO_pixel
+leather,resnet18,0.9993,0.9901,0.9876
+leather,resnet34,0.999,0.9892,0.989
+leather,resnet50,1.0,0.9924,0.9897
+leather,wide_resnet50_2,1.0,0.9943,0.992
+carpet,resnet18,0.9956,0.9827,0.9513
+carpet,resnet34,0.9988,0.989,0.9731
+carpet,resnet50,0.9884,0.9912,0.9723
+carpet,wide_resnet50_2,0.9996,0.9921,0.9772
+leather,wide_resnet101_2,1.0,0.9946,0.9922
+carpet,wide_resnet101_2,0.9968,0.9917,0.9759
+leather,resnet34,0.9993,0.9905,0.9906
+leather,resnet34,1.0,0.9908,0.9909
+Class02,resnet34,0.8504,0.9646,0.6193
